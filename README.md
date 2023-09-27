@@ -22,10 +22,4 @@
 <p style="color: red;">I know CSS</p>
 
 <p className="text-danger>I know Bootstrap</p>
-function saludar() {
-  console.log("¡Hola, mundo!");
-}
-
-saludar();
-```
-```
+[Clic aquí para abrir la ventana emergente](index.html)

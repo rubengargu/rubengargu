@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Popup</title>
+    <style>
+        /* Estilos para el botón */
+        .button {
+            background-color: #008CBA;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        /* Estilos para la ventana emergente */
+        .popup {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: white;
+            padding: 20px;
+            border: 1px solid #ccc;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <button class="button" id="popupButton">Mostrar Popup</button>
+    <div class="popup" id="popup">
+        <p>Hola</p>
+        <button class="button" id="closeButton">Cerrar</button>
+    </div>
+
+    <script>
+        // Obtener elementos del DOM
+        const popupButton = document.getElementById('popupButton');
+        const popup = document.getElementById('popup');
+        const closeButton = document.getElementById('closeButton');
+
+        // Mostrar la ventana emergente cuando se hace clic en el botón
+        popupButton.addEventListener('click', () => {
+            popup.style.display = 'block';
+        });
+
+        // Cerrar la ventana emergente cuando se hace clic en el botón de cerrar
+        closeButton.addEventListener('click', () => {
+            popup.style.display = 'none';
+        });
+    </script>
+</body>
+</html>
 
