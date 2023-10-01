@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rubengargu?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/rubengargu?tab=repositories
 
 - 📫 How to reach me **rubengarciagut@gmail.com**
 
@@ -22,7 +22,7 @@
 <h3 align="left"> Soft skills</h3>
 <p>As a developer, I've also developed important soft skills that are essential in my work</p>
 <ul>
-  <li>- Continuous Learning: One of the reasons that got me interested in this field is the constant novelty. Knowing that there's something new to learn every day, I continue to educate myself in my leisure time.</li>
+  <li>Continuous Learning: One of the reasons that got me interested in this field is the constant novelty. Knowing that there's something new to learn every day, I continue to educate myself in my leisure time.</li>
   <li>Frustration Management: One of the things this field has taught me the most is that the worst thing that can happen is getting frustrated with something, as it doesn't lead to progress or the right attitude.</li>
   <li>Adaptability: In such a rapidly changing environment, adapting to a new methodology, team, or framework is key and necessary.</li>
   <li>Logical Thinking: It's a fundamental skill for any programmer, and I've been developing it over time.</li>
